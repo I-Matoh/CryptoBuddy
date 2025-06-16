@@ -7,7 +7,7 @@ Welcome to **CryptoBuddy**, a rule-based cryptocurrency advisor chatbot that hel
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview   
 
 CryptoBuddy mimics basic AI decision-making using if-else logic in Python. It analyzes a predefined dataset of popular cryptocurrencies and gives friendly, beginner-friendly advice on which coin to consider based on:
 
