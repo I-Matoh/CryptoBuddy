@@ -10,7 +10,7 @@ crypto_db = {
         "energy_use": "high",
         "sustainability_score": 3
     },
-    "Ethereum": {
+    "Ethereum": { 
         "price_trend": "stable",
         "market_cap": "high",
         "energy_use": "medium",
