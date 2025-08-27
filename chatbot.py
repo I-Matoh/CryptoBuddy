@@ -24,7 +24,7 @@ crypto_db = {
     }
 }
 
-while True:
+while True: 
     user_query = input("You: ").lower()
 
     if "exit" in user_query or "bye" in user_query:
