@@ -6,7 +6,7 @@ print("Ask me about crypto trends, sustainability, or long-term growth.\n")
 crypto_db = {
     "Bitcoin": {
         "price_trend": "rising",
-        "market_cap": "high",
+        "market_cap": "high", 
         "energy_use": "high",
         "sustainability_score": 3
     },
